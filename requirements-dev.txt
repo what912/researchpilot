@@ -1,0 +1,4 @@
+# Optional packages for the generated PDF fixture in the offline behavior suite.
+pypdf>=4,<7
+reportlab>=4,<5
+

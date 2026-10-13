@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Research Engineer Copilot（ResearchPilot）"
+  short_description: "Evidence-first research, experiments and project memory"
+  default_prompt: "请使用 $researchpilot 完成当前科研任务，核实来源并保存证据、实验与下一步决定。"

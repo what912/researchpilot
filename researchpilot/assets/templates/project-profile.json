@@ -1,0 +1,20 @@
+{
+  "id": "project_new",
+  "question": "unknown",
+  "inputs": [],
+  "domain": "unknown",
+  "deadline": null,
+  "compute": {},
+  "budget": {},
+  "existing_results": [],
+  "user_requirements": [],
+  "observations": [],
+  "assumptions": [],
+  "authorization": {},
+  "preferences": {
+    "language": "zh",
+    "multi_agent": "auto"
+  },
+  "mode": "pipeline",
+  "depth": "standard"
+}

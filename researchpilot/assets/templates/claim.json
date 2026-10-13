@@ -1,0 +1,10 @@
+{
+  "id": "claim_new",
+  "text": "unknown",
+  "category": "unknown",
+  "confidence": "low",
+  "confidence_basis": "No verified evidence yet",
+  "references": [],
+  "run_ids": [],
+  "attribution": "user_statement"
+}

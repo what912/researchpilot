@@ -1,0 +1,28 @@
+{
+  "id": "idea_new",
+  "title": "unknown",
+  "problem": "unknown",
+  "motivation": "unknown",
+  "closest_source_ids": [],
+  "similarities": [],
+  "differences": [],
+  "mechanism": "unknown",
+  "method": {
+    "inputs": "unknown",
+    "outputs": "unknown",
+    "pseudocode": "unknown"
+  },
+  "requirements": {
+    "data": "unknown",
+    "compute": "unknown",
+    "code": "unknown"
+  },
+  "minimal_test": "unknown",
+  "confounders": [],
+  "fallback": "unknown",
+  "contribution_type": "unknown",
+  "validity_scope": "unknown",
+  "novelty_status": "unchecked",
+  "countersearch_ids": [],
+  "ranking": {}
+}

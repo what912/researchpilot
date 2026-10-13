@@ -1,0 +1,44 @@
+{
+  "synthetic": false,
+  "stage": "pilot",
+  "samples": 389,
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "steps": 180,
+  "dimension": 16,
+  "learning_rate": 0.02,
+  "lambda": 0.0001,
+  "means": {
+    "MF": {
+      "recall20": 0.2702,
+      "ndcg20": 0.12733737098236264
+    },
+    "LightGCN-average": {
+      "recall20": 0.34913333333333335,
+      "ndcg20": 0.1639428734104343
+    },
+    "LightGCN-last": {
+      "recall20": 0.3578,
+      "ndcg20": 0.16671063351441584
+    },
+    "Degree-alpha": {
+      "recall20": 0.34633333333333327,
+      "ndcg20": 0.1572868758843447
+    }
+  },
+  "popularity_single_measurement": {
+    "recall20": 0.12266666666666666,
+    "ndcg20": 0.0532585938121358,
+    "test_users": 50
+  },
+  "elapsed_seconds": 8.856837200000882,
+  "data_sha256": "53b8b7ed9ac5eca1a8c7da035e56774b49f6163dff40ded4896e12b8854839ab",
+  "scope": "Frozen LastFM 60-user/180-item subgraph; 50 test users; not original paper benchmark reproduction",
+  "test_protection": "No selection/tuning on test; fixed steps; all test evaluation occurs after training",
+  "gradient_check_max_error": 1.8117329858569065e-10
+}

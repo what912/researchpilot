@@ -1,0 +1,83 @@
+{
+  "id": "exp_new",
+  "hypothesis_id": "hyp_new",
+  "question": "unknown",
+  "expected_evidence": "unknown",
+  "falsification_rule": "unknown",
+  "dataset": {
+    "version": "unknown",
+    "source": "unknown",
+    "license_status": "unknown",
+    "split": "unknown",
+    "preprocessing": "unknown",
+    "deduplication": "unknown",
+    "contamination_check": "unknown"
+  },
+  "baselines": [],
+  "ablations": [],
+  "model": {
+    "name": "unknown",
+    "version": "unknown"
+  },
+  "hyperparameters": {},
+  "metrics": {
+    "primary": "unknown",
+    "secondary": [],
+    "calculation": "unknown",
+    "failure_rate": "unknown",
+    "resource_cost": "unknown"
+  },
+  "seeds": [],
+  "independent_unit": "seed",
+  "statistics": {
+    "protocol": "unknown",
+    "test_set_protection": "unknown"
+  },
+  "budget": {
+    "time_seconds": 5,
+    "gpu_seconds": 0,
+    "api_usd": 0,
+    "samples": 12,
+    "download_mb": 0
+  },
+  "requested": {
+    "time_seconds": 5,
+    "gpu_seconds": 0,
+    "api_usd": 0,
+    "samples": 12,
+    "download_mb": 0
+  },
+  "command": [
+    "{python}",
+    "{project}/repo/toy.py",
+    "--samples",
+    "{samples}",
+    "--seed",
+    "{seed}",
+    "--output",
+    "{run_dir}"
+  ],
+  "cwd": ".",
+  "inputs": [
+    "repo/toy.py"
+  ],
+  "artifacts": [
+    "{run_dir}/metrics.json",
+    "{run_dir}/rows.csv"
+  ],
+  "stage": "smoke",
+  "sequence": [
+    "environment",
+    "smoke"
+  ],
+  "go_no_go": "unknown",
+  "stop_conditions": [
+    "wall timeout"
+  ],
+  "authorization": {
+    "local_execute": false,
+    "reviewed_code": false,
+    "resource_profile": "unknown"
+  },
+  "synthetic": false
+}

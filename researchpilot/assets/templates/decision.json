@@ -1,0 +1,9 @@
+{
+  "id": "dec_new",
+  "decision": "unknown",
+  "reason": "unknown",
+  "evidence_ids": [],
+  "next_action": "Gather needed evidence",
+  "alternatives": [],
+  "outcome": "undetermined"
+}

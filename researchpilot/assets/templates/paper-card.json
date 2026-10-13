@@ -1,0 +1,35 @@
+{
+  "id": "paper_new",
+  "source_id": "src_new",
+  "problem": "unknown",
+  "closest_methods": [],
+  "method": {
+    "modules": "unknown",
+    "equations": "unknown",
+    "inputs": "unknown",
+    "outputs": "unknown",
+    "training": "unknown",
+    "inference": "unknown",
+    "mechanism": "unknown"
+  },
+  "protocol": {
+    "datasets": "unknown",
+    "split": "unknown",
+    "baselines": "unknown",
+    "metrics": "unknown",
+    "hyperparameters": "unknown",
+    "resources": "unknown"
+  },
+  "results": [],
+  "author_limitations": [],
+  "inferred_limitations": [],
+  "validity": "unknown",
+  "reproduction": {
+    "code": "unknown",
+    "models": "unknown",
+    "data": "unknown",
+    "gaps": "unknown"
+  },
+  "next_action": "Read actual evidence",
+  "claim_ids": []
+}

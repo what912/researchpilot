@@ -1,0 +1,14 @@
+{
+  "id": "src_new",
+  "title": "unknown",
+  "authors": null,
+  "year": null,
+  "url": null,
+  "source_type": "user_supplied",
+  "reading_scope": "metadata_only",
+  "sha256": null,
+  "acquired_at": "unknown",
+  "unread_elements": [
+    "full_text"
+  ]
+}

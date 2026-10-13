@@ -1,0 +1,6 @@
+{
+  "id": "question_new",
+  "question": "unknown",
+  "evidence_ids": [],
+  "next_action": "Gather evidence"
+}

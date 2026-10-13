@@ -1,0 +1,10 @@
+{
+  "id": "review_new",
+  "claim_ids": [],
+  "findings": [],
+  "unknowns": [
+    "unknown"
+  ],
+  "review_mode": "same_agent_staged",
+  "artifact_paths": []
+}
